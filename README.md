@@ -112,6 +112,6 @@ SSH into the control node and follow the steps below:
 
 - Ansible playbooks were install- .yml files located on the JumpBox within the Ansible Docker in the /etc/ansible/ folder. 
 - Open /etc/ansible/hosts/ and edit the file to to make sure comments a removed where needed and put in IP address for the target machine. 
-- http://20.96.23.124
+- http://20.96.23.124/app/kibana = makes sure Elk Server is running
 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
